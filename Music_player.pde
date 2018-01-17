@@ -26,7 +26,7 @@ void setup () {
   song[7] = new SoundFile(this, "We Were Promised Jetpacks - Sore Thumb");
   song[8] = new SoundFile(this,"The Dark Knight Rises   Bombers Over Ibiza Junkie XL Remix");
   song[9] = new SoundFile(this, "GTA Five_ The Extended Score — Steal The T20");
-  song[10] = new SoundFile(this, "Dying Light Soundtrack - Runaway");
+  song[10] = new SoundFile(this, "Men Against Fire");
 
   //pintln ("start of console")
   //printArray(fontList);
@@ -47,8 +47,5 @@ void setup () {
   
   //noLoop(); //Debugging purpose
   
-  //fill;(border);
-  rect();
-  //fill(inside);
-  rect();
+  
  }
